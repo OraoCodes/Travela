@@ -11,7 +11,9 @@ header nav a:hover {
     background-color: #15282e;
     border-radius: 6px;
 }
-
+main{ 
+    margin-top: 30px;
+}
 main ul {
     width: 1200px;
     margin: 0 auto 48px auto;
